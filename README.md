@@ -8,6 +8,8 @@
 - **Projektleiter_in**: steuert die Arbeit im Team
 - **Dokumentation**: sorgt dafür, dass Dokumentation up to date ist
 
+## Einzelbeiträge
+
 - [Herr Ulbricht](ulbrc.md)
 - [Michael Specht](specht.md)
 - [Florian Kempf](kempf.md)
