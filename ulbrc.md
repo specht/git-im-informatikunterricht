@@ -16,6 +16,6 @@ Durch die Beschäftigung mit git werden auf natürliche Weise folgende Aspekte b
 
 **Code-Block-Test:** `import *`
 
-**MathJax-Test:** <img src="https://render.githubusercontent.com/render/math?math=\Sigma">
+**MathJax-Test:** <img src="https://render.githubusercontent.com/render/math?math=\Huge \Sigma">
 
 
