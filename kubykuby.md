@@ -1,2 +1,4 @@
 # Verwendung von GitHub im Softwareprojekt (Q4)
-# Pro und Contra
+# Pro 
+- Ermöglicht Einblick in cooperatives Arbeiten in der Informatik
+- Sinnvolle Unterteilung in "Rollen" im Softwareprojekt möglich
