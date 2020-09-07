@@ -1,1 +1,1 @@
-# git-im-informatikunterricht
+# Git im Informatikunterricht
