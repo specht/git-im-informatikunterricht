@@ -1,1 +1,11 @@
-
+# Git 
+- Softwareprojekt in der Oberstufe
+- Gruppenarbeit
+- integriert in IDEs: kein manueller Download nötig
+- nicht nur um Versionen zu verwalten, sondern: Review der Änderungen
+- verschiedene Rollen:
+  - Code schreiben
+  - testen, Issues schreiben
+  - Dokumentation
+  - Release Manager
+- Fork-Workflow ist nicht der einzige
