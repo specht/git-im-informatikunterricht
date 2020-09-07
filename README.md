@@ -14,4 +14,5 @@
 - ...
 - ...
 
-[Kapitel 7](kapitel_7.md)
+[Herr Ulbricht](kapitel_7.md)
+[Michael Specht](specht.md)
