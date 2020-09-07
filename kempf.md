@@ -1,7 +1,6 @@
 # Git in der Oberstufe
 - nützlich für das Software-Projekt
-
-## Eingebunden in IDEs, bspw. BlueJ
+- Eingebunden in IDEs, bspw. BlueJ
 
 
 # Förderung der Kompetenz "Kommunizieren und Kooperieren"
