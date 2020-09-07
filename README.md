@@ -16,4 +16,4 @@
 Test (Manal)
 
 
-[kapitel_7]
+(Kapitel 7)[kapitel_7.md]
