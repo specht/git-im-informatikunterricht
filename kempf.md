@@ -12,4 +12,4 @@
 
 
 # Förderung der Kompetenz "Problemlösen"
-- Nutzung informatischer Werkzeuge zur Problemlösen
+- Nutzung informatischer Werkzeuge zum Problemlösen
