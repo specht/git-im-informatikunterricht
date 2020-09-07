@@ -33,4 +33,7 @@ def foo():
         return True
 ```
 
-<img style="transform:scale(0.25)" src="https://i.imgur.com/dJ32yHW.jpg">
+    
+
+
+<img  style="-webkit-transform: rotate(90deg); -moz-transform: rotate(90deg);-o-transform: rotate(90deg);-ms-transform: rotate(90deg); transform: rotate(90deg)" src="https://i.imgur.com/dJ32yHW.jpg" width="333">
