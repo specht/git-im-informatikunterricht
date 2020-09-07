@@ -1,5 +1,6 @@
-**Git in der Oberstufe**
-# nützlich für das Software-Projekt
+# Git in der Oberstufe
+ nützlich für das Software-Projekt
+
 ## Eingebunden in IDEs, bspw. BlueJ
 
 
