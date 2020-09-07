@@ -10,7 +10,10 @@ Noch ein zweiter Kommentar (Jahn)
 
 
 # Rollen im Softwareprojekt
-- Entwickler
-- Tester
-- Release Manager
-- Projektleiter
+- Entwickler: erstellt und verändert Softwarecode
+- Tester: Testet die Applikation und erstellt Issues
+- Release Manager: erstellt Tags für Releases
+- Projektleiter: steuert die Arbeit im Team
+
+
+
