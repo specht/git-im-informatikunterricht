@@ -33,4 +33,4 @@ def foo():
         return True
 ```
 
-<img src="https://i.imgur.com/dJ32yHW.jpg">
+<img style="transform:scale(0.25)" src="https://i.imgur.com/dJ32yHW.jpg">
