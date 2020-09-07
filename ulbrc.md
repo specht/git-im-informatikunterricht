@@ -33,7 +33,10 @@ def foo():
         return True
 ```
 
-    
+ <img src="https://i.imgur.com/dJ32yHW.jpg" height="333">
+ 
+ <img src="https://user-images.githubusercontent.com/70510036/92376391-c8d74080-f102-11ea-8516-d7d0f38a6229.png" height="333">
+ 
+ ![Image from phone](https://user-images.githubusercontent.com/70510036/92376391-c8d74080-f102-11ea-8516-d7d0f38a6229.png)
 
 
-<img  style="-webkit-transform: rotate(90deg); -moz-transform: rotate(90deg);-o-transform: rotate(90deg);-ms-transform: rotate(90deg); transform: rotate(90deg)" src="https://i.imgur.com/dJ32yHW.jpg" width="333">
