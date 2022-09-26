@@ -7,16 +7,18 @@ Durch die Beschäftigung mit git werden auf natürliche Weise folgende Aspekte b
 
 **Bildtest**
 
-![](https://i.imgur.com/tOwN4Yj.png)
+
 
 **Code-Block-Test:** `import *`
 
-**MathJax-Test:** <img src="https://render.githubusercontent.com/render/math?math=\Huge \Sigma">
+**MathJax-Test:** 
+$$F = m \cdot a $$
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
 
 
 ```javascript
@@ -33,7 +35,6 @@ def foo():
         return True
 ```
 
- <img src="https://i.imgur.com/dJ32yHW.jpg" height="333">
  
  <img src="https://user-images.githubusercontent.com/70510036/92376391-c8d74080-f102-11ea-8516-d7d0f38a6229.png" height="333">
  
